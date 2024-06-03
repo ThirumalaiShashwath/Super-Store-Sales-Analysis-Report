@@ -20,6 +20,7 @@ VISUALISATIONS:
 3. Sales by region : Donut Chart
 4. Sales by state : Map
 5. Sales by date : Line Chart
+
 6. Sum of quantity, discount, profit, sales : Cards
 
 DATA SOURCE:
@@ -27,3 +28,7 @@ This project uses the Super Store dataset, which is open source and available on
 
 CONCLUSION:
 The analysis and visualizations provided in this project aim to offer stakeholders a comprehensive understanding of Super Store's sales data. By exploring different aspects of the dataset, users can gain valuable insights into sales patterns, shipping costs, and geographic performance.
+
+
+![Screenshot 2024-06-03 224141](https://github.com/ThirumalaiShashwath/Super-Store-Sales-Analysis-Report/assets/171048181/f66ed6cf-23ba-4c40-86f3-6be5f2671208)
+
